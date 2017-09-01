@@ -84,3 +84,10 @@ button{
 #boton1{
 	left:20px;
 }
+article{
+	display: inline-block;
+	width: 98%;
+	height: 32%;
+	background-color:Blue;
+	
+}
