@@ -11,7 +11,6 @@ body{
 	padding: 5px;
 	margin: 0;
 }
-
 #cabecera{
 	display: inline-block;
 	position: relative;
@@ -19,14 +18,6 @@ body{
 	background-color: black;
     width: 99%;
     height: 90px;
-}
-#icono{
-    position: absolute;
-	width: 90px;
-	height: 90px;
-	background-image: url(Imagenes/img1.jpg);
-	background-position: center;
-	background-size: cover;
 }
 #titulo{
 	margin: 0;
@@ -73,4 +64,23 @@ footer{
 	height:40px;
 	background-color: black;
 	margin-top:5px;
+}
+a{
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: black;
+}
+button{
+    display: inline-block;
+	margin-left: 5px;
+	margin-top: 5px;
+	width: 19%;
+	height: 30px;
+    background-color: blue;
+    border-style: none;
+}
+#boton1{
+	left:20px;
 }
